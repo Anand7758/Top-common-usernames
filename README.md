@@ -1,7 +1,5 @@
 # Top-common-usernames
-Top-common-usernames
 
-# Default Usernames List
 
 This file contains a list of commonly used usernames for security auditing purposes. It can be used to:
 - Identify default or weak usernames in system configurations.
