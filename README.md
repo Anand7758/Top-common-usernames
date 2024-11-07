@@ -27,6 +27,3 @@ This list is beneficial for security testing in multiple scenarios, including:
 
 Contributions to improve this list are welcome. If you have additional commonly-used usernames or improvements, feel free to submit a pull request.
 
-## License
-
-This repository is provided under the MIT License. See [LICENSE](LICENSE) for more details.
